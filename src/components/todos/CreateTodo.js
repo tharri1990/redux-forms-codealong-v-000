@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
- 
+
 class CreateTodo extends Component {
   render() {
     return(
@@ -15,5 +15,5 @@ class CreateTodo extends Component {
     );
   }
 };
- 
+
 export default CreateTodo;
